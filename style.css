@@ -188,3 +188,7 @@ hr.dashed {
     color: var(--highlight-color);
     font-weight: bold;
 }
+
+#contact-list li{
+    margin: 0.75rem 0rem;
+}
